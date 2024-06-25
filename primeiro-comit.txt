@@ -8,3 +8,11 @@
 #sequencia 1 ~ git add 
 #sequencia 2 ~ git commit -m "Itentificação de comit"
 #sequencia 3 ~ git push origin (realiza o push de infomações locais para rede)
+
+
+#informações de diferença de git pull e git push 
+
+#push (empurrar ~ realiza o Envio dos arquivos locais para dentro do repositorio WEB) #pull ( puxar ~ realiza o download dos arquivos do repositorio web para repositorio local )
+
+# Para equalizar os repositorios , realizar o seguinte comanda , primeiro selecionar o local de ''instalacao''
+#Posteriror dentro do github selecionar o link do repositorio e rodar o git clone
