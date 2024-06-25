@@ -1,3 +1,5 @@
 #comit teste 1 edição
 
 #alterações realizadas posterior a clone
+
+#teste git push origin
