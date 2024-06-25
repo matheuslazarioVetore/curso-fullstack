@@ -3,3 +3,8 @@
 #alterações realizadas posterior a clone
 
 #teste git push origin
+
+
+#sequencia 1 ~ git add 
+#sequencia 2 ~ git commit -m "Itentificação de comit"
+#sequencia 3 ~ git push origin (realiza o push de infomações locais para rede)
