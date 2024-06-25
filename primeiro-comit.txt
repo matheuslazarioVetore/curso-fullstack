@@ -1,1 +1,3 @@
-comit teste 1 edicao
+#comit teste 1 edição
+
+#alterações realizadas posterior a clone
