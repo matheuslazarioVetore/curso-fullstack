@@ -16,3 +16,5 @@
 
 # Para equalizar os repositorios , realizar o seguinte comanda , primeiro selecionar o local de ''instalacao''
 #Posteriror dentro do github selecionar o link do repositorio e rodar o git clone
+
+# teste maquina VETORE 
