@@ -18,3 +18,5 @@
 #Posteriror dentro do github selecionar o link do repositorio e rodar o git clone
 
 # teste maquina VETORE 
+
+# teste switch main
