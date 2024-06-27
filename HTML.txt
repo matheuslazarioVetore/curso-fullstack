@@ -1,10 +1,3 @@
-<p> ~ paragrafos 
-Palavras reservadas : 
-
-caracteres especiais em linguagens de programação, como o HTML. Caracteres reservados, como "<" e ">", são essenciais para evitar conflitos ao exibir tags na tela. A utilização correta desses caracteres é fundamental para garantir a correta interpretação do código. A tag "code" é apresentada como uma forma de representar código de maneira especial.
-
-
-
 <!-- COMENTARIOS
   -->
   <p><code> teste </code> </p>
