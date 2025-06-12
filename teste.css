@@ -1,0 +1,50 @@
+h1 {
+    color: blue;
+    font-size: 24px;
+}
+
+.teste1 {
+    color: green;
+    font-size: 18px;
+}
+
+.teste2{
+    color: red;
+    font-size: 20px;
+}
+
+
+/*/
+    TIPOS DE APLICAÇÃO DOS SELETORES 
+----------------tag----------------
+p{
+    
+    color: red;
+        font-size: 20px;
+    }
+/*----------------id----------------
+#titulo{
+    color: green;
+    font-size: 30px;
+}
+/*----------------classe----------------
+.titulo{
+    color: purple;
+    font-size: 18px;
+}
+/*----------------atributo----------------
+a[href]{
+    color: orange;
+    font-size: 16px;
+}
+/*----------------pseudo-classe----------------
+a:hover{
+    color: pink;
+    font-size: 22px;
+}
+/*----------------pseudo-elemento----------------
+p::first-letter{
+    color: brown;
+    font-size: 28px;
+}
+*/
